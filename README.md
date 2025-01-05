@@ -1,0 +1,1 @@
+Icebreaker is a two-player game where the player has to trap the opponent in such a way that they cannot make a move. In players turn, each of the two players moves his piece along the grid of ice, breaking some of the ice to impose restriction on the movements of the other player. The game is won if one cannot move.
